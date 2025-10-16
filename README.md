@@ -15,7 +15,7 @@ A análise inclui:
 - Visualizações com **Seaborn** e **Matplotlib**.
 - Mapa interativo com **Plotly**, destacando a gravidade dos acidentes em diferentes regiões.
 
-[Acesse a versão no Colab](https://colab.research.google.com/drive/1Ik8QIjshpLZmoFXzDceXt7hOV7YPKQBP#scrollTo=HMsA0or3qjzb)
+<a href="https://colab.research.google.com/drive/1Ik8QIjshpLZmoFXzDceXt7hOV7YPKQBP" target="_blank">Acesse a versão no Colab</a>
 
 <br>
 
