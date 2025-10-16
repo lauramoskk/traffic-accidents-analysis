@@ -6,8 +6,7 @@ Este projeto tem como objetivo analisar dados reais de acidentes de trânsito oc
 
 A análise considera variáveis como **condições climáticas, localização geográfica, horário do dia, visibilidade e sinalização de trânsito**, permitindo identificar **momentos e locais mais críticos** para a segurança viária.
 
-O projeto foi desenvolvido inicialmente no **Google Colab**, ambiente ideal para testes e exploração de dados de forma rápida e colaborativa.  
-Em seguida, foi reestruturado em **arquivos Python organizados** para facilitar a manutenção, reaproveitamento de código e execução local.
+O projeto foi desenvolvido inicialmente no **Google Colab**, ambiente ideal para testes e exploração de dados de forma rápida e colaborativa. Em seguida, foi reestruturado em **arquivos Python organizados** para facilitar a manutenção, reaproveitamento de código e execução local.
 
 A análise inclui:
 - Limpeza e tratamento de dados com **Pandas**.
