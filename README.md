@@ -28,12 +28,15 @@ A análise inclui:
 
 ### Instruções de execução
 
-1. Clone o repositório e acesse a pasta:
-<br>git clone https://github.com/seu-usuario/traffic-accidents-analysis.git
-<br>cd traffic-accidents-analysis
+```bash
+# 1. Clone o repositório e acesse a pasta:
+git clone https://github.com/seu-usuario/traffic-accidents-analysis.git
+cd traffic-accidents-analysis
 
-2. Instale as dependências necessárias:
-<br>pip install pandas seaborn matplotlib plotly
+# 2. Instale as dependências necessárias:
+pip install pandas seaborn matplotlib plotly
 
-3. Execute o script principal:
-<br>python main.py
+# 3. Execute o script principal:
+python main.py
+```
+
